@@ -1,0 +1,12 @@
+*~
+._*
+.DS_Store
+.vs
+.vscode
+__pycache__
+*.jpg
+*.jpeg
+YOLO_small.ckpt
+ssd_mobilenet_v1_coco_11_06_2017.tar.gz
+*.avi
+ssd_mobilenet_v1_coco_11_06_2017
